@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# iCloud placeholder files
+*.icloud
+
+# Editor cruft
+.vscode/
+.idea/
+*.swp
+*~
+
+# ──────────────────────────────────────────────────────────────────────
+# Your private life lives in these once you start using the system.
+# They're ignored by default so a public fork never accidentally commits
+# your personal logs. Delete these lines if you keep your own PRIVATE repo
+# and WANT to version your data.
+# ──────────────────────────────────────────────────────────────────────
+reviews/daily/*
+reviews/weekly/*
+reviews/monthly/*
+reviews/quarterly/*
+habits/log/*
+
+# Keep the folders themselves tracked (so the structure ships)
+!reviews/daily/.gitkeep
+!reviews/weekly/.gitkeep
+!reviews/monthly/.gitkeep
+!reviews/quarterly/.gitkeep
+!habits/log/.gitkeep
