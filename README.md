@@ -21,7 +21,7 @@ things are actually going.
 
 1. **Get the files.** Download or clone this repo into a folder you like:
    ```
-   git clone https://github.com/<you>/lifeos.git ~/lifeos
+   git clone https://github.com/jeanjmauris/lifeos.git ~/lifeos
    cd ~/lifeos
    ```
    (Tip: put it in iCloud Drive / Dropbox if you want phone access for quick capture.)
