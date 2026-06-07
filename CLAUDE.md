@@ -127,6 +127,10 @@ Exception: routine log entries during an active protocol.
 
 **On questions:** One at a time. Always.
 
+**On how I work:** Read `context/operating-manual.md`. Lean on the strengths, watch
+the blind spots and early-warning signs, follow "how to work with me." Name a pattern
+when it fires — don't wait to be asked.
+
 ---
 
 ## Sensitive Context (optional)
@@ -164,6 +168,7 @@ If this file looks stale, flag it at session start before doing anything else.
 - `goals/this-quarter.md` — current quarter goals
 - `meta/reflections.md` — patterns observed over time
 - `context/profile.md` — deep identity and values
+- `context/operating-manual.md` — how I work: strengths, blind spots, how to push
 - `context/people.md` — key people, roles, relationships
 - `projects/[name].md` — project context and notes
 

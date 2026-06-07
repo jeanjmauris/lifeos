@@ -76,3 +76,7 @@ in their words. If not, leave or delete the section. Never push.
 Once `CLAUDE.md` is filled, this protocol shouldn't run again. On future sessions,
 a returning user gets the normal experience — greet briefly and ask what they need,
 or run whatever trigger they invoke.
+
+Note: `context/operating-manual.md` (how they work — strengths, blind spots) is left
+mostly empty on purpose. Don't try to fill it during onboarding — it earns itself over
+time, as the `reflect` and `update system` protocols surface real patterns.
