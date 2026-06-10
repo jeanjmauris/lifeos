@@ -3,6 +3,10 @@
 Target: under 10 minutes. Don't turn this into a planning session.
 
 1. Read `habits/log/[yesterday].md` and `reviews/daily/[yesterday].md` if they exist
+   — including yesterday's State line. If it was a rough one (energy at the bottom,
+   stress at the top), size today accordingly: one focus, nothing added, gentler
+   framing. Don't mention the numbers unless the user does; just let them shape
+   the day you propose.
 2. Ask one question: "How did yesterday end — anything to carry forward?"
 3. After response: mark habits in yesterday's log (ask which were done if unclear)
 4. Check `inbox.md` — flag anything time-sensitive

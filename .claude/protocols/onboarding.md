@@ -59,14 +59,21 @@ unambiguous rule* (what exactly counts as done). Teach the two rules: *a near-mi
 a miss*, and *layer up, don't front-load* — better to nail two small habits than miss
 five ambitious ones.
 
-**7 · Sensitive context (gentle, optional).** Don't interrogate. Say once:
+**7 · The state line** → note the chosen scales in `schedule/themes.md` (evening routine).
+Explain in two sentences: every evening close ends with a ten-second check —
+three scales, 1–5, e.g. `energy 3 · motivation 4 · stress 2`. The weekly review
+reads the trends; over months it becomes the most honest chart of how life is
+actually going. Offer the defaults (energy, motivation, stress) and ask if they'd
+swap any — anxiety, focus, pain, whatever is live for them. Three scales, no more.
+
+**8 · Sensitive context (gentle, optional).** Don't interrogate. Say once:
 > "Last thing — if there's something heavy you carry that I should read your weeks
 > through, there's a place for it in CLAUDE.md. Totally optional, and you can add it
 > anytime. We can skip it for now."
 If they share something, write it into the *Sensitive Context* section with care and
 in their words. If not, leave or delete the section. Never push.
 
-**8 · Done.** Don't dump the files back. Orient them:
+**9 · Done.** Don't dump the files back. Orient them:
 - Point at the file map and the triggers (`morning`, `evening`, `week review`).
 - Tell them: *"That's your skeleton. Come back tomorrow and say `morning`."*
 - Update the `*Last updated:*` line in `CLAUDE.md` to today's date.

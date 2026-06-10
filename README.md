@@ -41,7 +41,7 @@ Once set up, you drive it with simple triggers:
 | Say this        | And it…                                              |
 |-----------------|------------------------------------------------------|
 | `morning`       | Quick start — habits, today's focus, what's on        |
-| `evening`       | Close the day — what happened, log habits, carry-forward |
+| `evening`       | Close the day — wins, habits, a 10-second state check (energy/motivation/stress), carry-forward |
 | `week review`   | Reviews the week, checks habits against goals, finds patterns |
 | `inbox`         | Processes whatever you dumped in `inbox.md`           |
 | `todos`         | Sweeps and updates your todo list                     |
